@@ -1,0 +1,54 @@
+p {
+    margin-right: 50px;
+    font-size: 15px;
+}
+
+a {
+    margin-right: 15px;
+    margin-left: 15px;
+    font-size: 14px;
+    color: inherit;
+    text-decoration:inherit;
+    padding-top: 1em;
+}
+
+a:hover {
+    color:inherit;
+    text-decoration: underline;
+}
+
+.btn-primary-outline {
+    background-color: transparent;
+    border-color: #dddddd transparent #dddddd transparent;
+  }
+
+  .form-control {
+    border-color: #dddddd transparent #dddddd#dddddd ;
+  }
+
+  h3 {
+      color: #dc3545;
+      font-size: 20px;
+  }
+
+  h2 {
+      font-size: 18px;
+  }
+
+  .round-right {
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    background-color: transparent;
+    border-color: #dddddd#dddddd#dddddd transparent;
+  }
+
+  .round-left {
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    background-color: transparent;
+    border-color: #dddddd transparent #dddddd#dddddd;
+  }
+
+  .form-control {
+    border-color: #dddddd transparent #dddddd transparent ;
+  }
